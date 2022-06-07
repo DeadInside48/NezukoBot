@@ -1,0 +1,13 @@
+{
+  "name": "nezukobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/Nezuko.js",
+  "scripts": {},
+  "author": "Rus",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "telegraf": "^4.8.4"
+  }
+}
